@@ -1,6 +1,6 @@
 # _511_FeatherTalk_send_plusinput
 
-Example code for TECHIN 511-AU18\
+*Example code for TECHIN 511-AU18*
 
 Global Innovation Exchange (GIX), MS in Technology Innovation
 University of Washington
